@@ -1,7 +1,10 @@
 aiohttp
 aiohttp-jinja2
-telethon
+pyrogram
+tgcrypto
 cryptg
 pillow
+pyromod
 aiohttp_session[secure]
 python-dotenv
+Jinja2==3.1.1
